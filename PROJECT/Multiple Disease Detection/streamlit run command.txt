@@ -1,0 +1,1 @@
+streamlit run "C:\Users\LENOVO\OneDrive\Desktop\PROJECT\Multiple Disease Detection\multiple disease detection.py"
